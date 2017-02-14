@@ -1,7 +1,6 @@
 import ListNode from '../scripts/ListNode.js'
 import { expect, assert } from 'chai'
 
-
 describe('ListNode', function() {
   it('should have a data property', function(){
     var node = new ListNode();
